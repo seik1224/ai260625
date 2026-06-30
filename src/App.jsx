@@ -1,6 +1,8 @@
 import './App.css'
 import Event01 from './step/event01'
 import Event02 from './step/event02'
+import Event03 from './step/event03'
+import Event04 from './step/event04'
 import Step01 from './step/step01'
 import Step02 from './step/step02'
 import Step03 from './step/step03'
@@ -29,6 +31,8 @@ function App() {
       <Step08 />
       <Event01 />
       <Event02 />
+      <Event03 />
+      <Event04 />
     </>
   )
 }
